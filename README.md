@@ -22,7 +22,7 @@ Polynomial Package
 
 Ntru Package
 ------------
-* ntru.py             : Ntru Encryption Class Implimentation for Python 
+* ntru.py             : Ntru Encryption Class Implementation for Python 
 * NTRU.md             : Documentation for ntru.py
 * example_bobalice.py : An example using Ntru given in the Ntru Documentation NTRU.md
 * example_enDom.py    : An example using Ntru in context of encrypted domain
