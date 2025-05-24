@@ -16,7 +16,7 @@ Software:
 
 Polynomial Package
 ------------------
-* poly.py             : Polynomial Library for polynomials with rational coeffiencents
+* poly.py             : Polynomial Library for polynomials with rational coefficients
 * POLY.md             : Documentation for poly.py
 * testPoly.py         : A test for functions defined in our library
 
